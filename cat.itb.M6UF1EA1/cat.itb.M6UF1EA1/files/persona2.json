@@ -1,0 +1,15 @@
+{
+    "Nom":"F",
+    "Cognoms":"U",
+    "Edat":20,
+    "Assignatures": [
+        {
+            "Id": 1,
+            "Nom": "Programació"
+        },
+        {
+            "Id": 2,
+            "Nom": "Desplegament web"
+        }
+    ]
+}
