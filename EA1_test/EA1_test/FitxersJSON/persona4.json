@@ -1,0 +1,15 @@
+{
+    "Nom":"Facundo",
+    "Cognoms":"Goicochea Ruiz",
+    "Edat":22,
+    "Amics": [
+        {
+            "Id": 1,
+            "Nom": "Josep"
+        },
+        {
+            "Id": 2,
+            "Nom": "Andreu"
+        }
+    ]
+}

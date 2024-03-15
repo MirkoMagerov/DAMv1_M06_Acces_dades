@@ -15,20 +15,122 @@ C:\Users\33939635F\RiderProjects\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.gen
 C:\Users\33939635F\RiderProjects\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
 C:\Users\33939635F\RiderProjects\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\33939635F\RiderProjects\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
-D:\MiroslavMagerov\DAMv1_M06_Acces_dades\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA2. CRUD en fitxers JSON\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\EAs\EA3. Persistència en Fitxers XML\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\Examen\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. Resum\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\aa_ITB\1.DAMv1\M06. Accés a dades\aa_UFs\UF1. Persistència en Fitxers\EAs\EA4. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.exe
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.deps.json
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.runtimeconfig.json
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\EA1_test.pdb
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.AssemblyReference.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfoInputs.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.AssemblyInfo.cs
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CoreCompileInputs.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.csproj.CopyComplete
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\refint\EA1_test.dll
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.pdb
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\EA1_test.genruntimeconfig.cache
+C:\Joan\a_ITB\1aa_Curs 23-24\DAMv1\M06. Accés a dades\UFs\UF1. Persistència en Fitxers\EAs\EA3. CRUD en fitxers\EA1_test\EA1_test\obj\Debug\net6.0\ref\EA1_test.dll
