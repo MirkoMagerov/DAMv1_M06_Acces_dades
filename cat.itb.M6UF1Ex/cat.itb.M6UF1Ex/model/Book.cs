@@ -1,0 +1,33 @@
+﻿namespace cat.itb.M6UF1Ex;
+
+public class Book
+{
+    public int _id { get; set; }
+    public String title { get; set; }
+    public String isbn { get; set; }
+    public PublishedDate publishedDate { get; set; }
+    public int pageCount { get; set; }
+    public string thumbnailUrl { get; set; }
+    public String shortDescription { get; set; }
+    public String longDescription { get; set; }
+    public String status { get; set; }
+    public List<String> authors { get; set; }
+    public List<String> categories { get; set; }
+    
+    public override string ToString()
+    {
+        return 
+            "Book{" + 
+            "_id = '" + _id + '\'' +
+            ",title = '" + title + '\'' + 
+            ",isbn = '" + isbn + '\'' + 
+            ",publishedDate = '" + publishedDate + '\'' + 
+            ",thumbnailUrl = '" + thumbnailUrl + '\'' + 
+            ",shortDescription = '" + shortDescription + '\'' + 
+            ",longDescription = '" + longDescription + '\'' + 
+            ",status = '" + status + '\'' + 
+            ",authors = '" + authors + '\'' + 
+            ",categories = '" + categories + '\'' + 
+            "}";
+    }
+}

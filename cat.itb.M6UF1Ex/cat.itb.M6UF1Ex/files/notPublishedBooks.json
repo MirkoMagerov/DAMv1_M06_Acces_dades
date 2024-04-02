@@ -1,0 +1,97 @@
+[
+  {
+    "_id": 146,
+    "title": "Distributed Agile in Action",
+    "isbn": "1935182412",
+    "publishedDate": null,
+    "pageCount": 325,
+    "shortDescription": "Distributed Agile in Action is the first book to directly address the unique task of going Agile in a distributed team. Rather than rehashing Agile theories, this book supplies the practical examples and step by step advice you need to help your distributed teams adopt and embrace Agile principles. It's a distilled and carefully organized learning aid for working in a distributed Agile environment, with in-depth focus on how to approach three critical components of development-People, Process and Technology.",
+    "longDescription": "As organizations try to do more with less, development teams are less likely to be centrally located, tightly-managed, and permanent. Distributed organizations face special challenges when implementing Agile processes, which rely on frequent communication and responsive teams. Distributed Agile in Action is a guide to running successful Agile projects within geographically and culturally diverse organizations.    Distributed Agile in Action is the first book to directly address the unique task of going Agile in a distributed team. Rather than rehashing Agile theories, this book supplies the practical examples and step by step advice you need to help your distributed teams adopt and embrace Agile principles. It's a distilled and carefully organized learning aid for working in a distributed Agile environment, with in-depth focus on how to approach three critical components of development-People, Process and Technology.    It's jam-packed with suggestions and stories gained from the authors' distributed Agile journey working with teams spread across cultures, continents, and time zones. The book includes a complete case study presenting an increasingly-common project scenario.    This book is written for developers and project managers in distributed teams. Although the examples and case study are presented in Java / Java EE, best practices from rest of the book are technology agnostic and would work equally well for any environment.",
+    "status": "MEAP",
+    "authors": [
+      "Vikas Hazrati",
+      "Balaji D Loganathan"
+    ],
+    "categories": [
+      "Software Engineering"
+    ],
+    "Assessment": 3000
+  },
+  {
+    "_id": 165,
+    "title": "Android in Practice",
+    "isbn": "9781935182924",
+    "publishedDate": null,
+    "pageCount": 0,
+    "shortDescription": null,
+    "longDescription": null,
+    "status": "MEAP",
+    "authors": [
+      "Matthias Kaeppler",
+      "Michael D. Galpin",
+      "Charlie Collins"
+    ],
+    "categories": [
+      "Mobile Technology"
+    ],
+    "Assessment": 3000
+  },
+  {
+    "_id": 175,
+    "title": "Groovy in Action, Second Edition",
+    "isbn": "1935182447",
+    "publishedDate": null,
+    "pageCount": 700,
+    "shortDescription": "Groovy in Action, Second Edition is a thoroughly-revised, comprehensive guide to Groovy programming. It introduces Java developers to the dynamic features that Groovy provides, and shows you how to apply Groovy to a range of tasks including building new apps, integration with existing code, and DSL development.",
+    "longDescription": "The first edition of Groovy in Action is the undisputed definitive reference on the Groovy language. Written by core members of the Groovy language team, this book presents Groovy like none other can   from the inside out. Since its introduction a few years back, Groovy has grown from an upstart dynamic language for the JVM to become an integral part of any Java developer's toolbox. Projects like Grails and Griffon have extended Groovy's reach into the web and desktop app world.    Groovy in Action, Second Edition is a thoroughly-revised, comprehensive guide to Groovy programming. It introduces Java developers to the dynamic features that Groovy provides, and shows you how to apply Groovy to a range of tasks including building new apps, integration with existing code, and DSL development.    This book introduces Groovy by example, presenting lots of reusable code while explaining the underlying concepts. Java developers new to Groovy find a smooth transition into the dynamic programming world. Groovy experts gain a solid reference that challenges them to explore Groovy deeply and creatively.    For readers learning it from scratch. Groovy in Action thoroughly moves through the Groovy basics, including:    Groovy's unique approach of optional typing  Simple and collective Groovy data types  Working with closures and Groovy control structures  The merits of Metaprogramming  Readers are presented with rich and detailed examples illustrating Groovy's enhancements to Java, including:    How to work with builders and the GDK  Database and XML programming with Groovy  Concurrency for the multicore era: actors, asynchronous collections and dataflow  Building Domain Specific languages   a very hot topic!  Groovy in Action then demonstrates how to integrate Groovy in Java projects and provides:    Tips and Tricks  Unit testing and build support  Groovy frameworks, including Grails, Griffon, and Groovy on Windows",
+    "status": "MEAP",
+    "authors": [
+      "Dierk König",
+      "Guillaume Laforge",
+      "Paul King",
+      "Cédric Champeau",
+      "Hamlet D'Arcy",
+      "Erik Pragt",
+      "",
+      "Jon Skeet"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "Assessment": 3000
+  },
+  {
+    "_id": 189,
+    "title": "F# in Action",
+    "isbn": "1935182250",
+    "publishedDate": null,
+    "pageCount": 425,
+    "shortDescription": "F# in Action introduces the F# language, but it goes well beyond the standard tutorial and reference approach. F# expert Amanda Laucher draws on her extensive experience deploying F#-based solutions to show you how to use F# in real, day-to-day work.",
+    "longDescription": "Microsoft's F# offers a true functional programming language for the .NET platform. The \"functional programming\" approach creates exceptionally stable, fault-tolerant code that's especially efficient for the concurrent programming requirements of multi-processor and high-availability applications. F# builds on the legacy of Erlang, Haskel, and OCaml, adding full .NET support and easy interoperability with C# and other .NET platform features.    F# in Action introduces the F# language, but it goes well beyond the standard tutorial and reference approach. F# expert Amanda Laucher draws on her extensive experience deploying F#-based solutions to show you how to use F# in real, day-to-day work. You'll see \"Greenfield\" examples, where you build new F# programs from scratch. You'll also dig into \"Brownfield\" scenarios, where you integrate F# code into in-place systems. Along the way, you'll master the functional programming style and learn where and how to apply it most effectively.",
+    "status": "MEAP",
+    "authors": [
+      "Amanda Laucher"
+    ],
+    "categories": [
+      "Microsoft .NET"
+    ],
+    "Assessment": 3000
+  },
+  {
+    "_id": 321,
+    "title": "SNOOPY Y CARLITOS 1969-1970 Nº 10/25 (NUEVA EDICIÓN)",
+    "isbn": "9788491465522",
+    "publishedDate": null,
+    "pageCount": 352,
+    "shortDescription": "Tiras publicadas entre 1969 y 1970 de Carlitos, la obra maestra de Charles M. Schulz. El mundo de Carlitos es un microcosmos, una pequeña comedia humana válida tanto para el lector inocente como para el sofisticado.Y la mejor manera de apreciar lo expuesto es esta edición en la que permite apreciar viñeta a viñeta la evolución tanto del artista como de los personajes.",
+    "longDescription": null,
+    "status": "MEAP",
+    "authors": [
+      "Charles M. Schulz"
+    ],
+    "categories": [
+      "Cómic Adulto"
+    ],
+    "Assessment": 3000
+  }
+]
