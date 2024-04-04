@@ -11,6 +11,24 @@
         public virtual double Salario { get; set; }
         public virtual double Comision { get; set; }
         public virtual int Deptno { get; set; }
+        public virtual Departamento Departamento { get; set; }
+
+        public Empleado()
+        {
+
+        }
+
+        public Empleado(int empno, string apellido, string oficio, int dir, DateTime fechaalt, double salario, double comision, int deptno)
+        {
+            Empno = empno;
+            Apellido = apellido;
+            Oficio = oficio;
+            Dir = dir;
+            Fechaalt = fechaalt;
+            Salario = salario;
+            Comision = comision;
+            Deptno = deptno;
+        }
 
         public override string ToString()
         {
@@ -25,6 +43,7 @@
             result += $"Salario: {Salario}\n";
             result += $"Comision: {Comision}\n";
             result += $"Deptno: {Deptno}\n";
+            result += $"Departamento: {Departamento.Dnombre}, {Departamento.Loc}";
 
             return result;
         }

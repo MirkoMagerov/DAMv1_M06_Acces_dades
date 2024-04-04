@@ -11,12 +11,16 @@ namespace cat.itb.M6UF2EA3.Maps
             Table("departamentos");
 
             // Identificador unico
-            Id(x => x.Id);
+            Id(x => x.Id).GeneratedBy.Identity();
 
             //Mapeo
             Map(x => x.Dnombre).Column("dnombre");
 
             Map(x => x.Loc).Column("loc");
+
+            //HasMany(x => x.Empleados)
+            //    .KeyColumn("deptno")
+            //    .Inverse();
         }
     }
 }

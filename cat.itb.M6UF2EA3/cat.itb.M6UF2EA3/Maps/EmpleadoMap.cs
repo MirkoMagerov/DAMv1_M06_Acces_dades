@@ -11,7 +11,7 @@ namespace cat.itb.M6UF2EA3.Maps
             Table("empleados");
 
             //Identificador único
-            Id(x => x.Id);
+            Id(x => x.Id).GeneratedBy.Identity();
 
             // Mapeo
             Map(x => x.Empno).Column("empno");
@@ -29,6 +29,10 @@ namespace cat.itb.M6UF2EA3.Maps
             Map(x => x.Comision).Column("comision");
 
             Map(x => x.Deptno).Column("deptno");
+
+            //References(x => x.Departamento)
+            //    .Column("deptno")
+            //    .Not.Nullable();
         }
     }
 }
