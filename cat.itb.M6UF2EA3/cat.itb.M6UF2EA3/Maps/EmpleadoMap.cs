@@ -28,11 +28,10 @@ namespace cat.itb.M6UF2EA3.Maps
 
             Map(x => x.Comision).Column("comision");
 
-            Map(x => x.Deptno).Column("deptno");
-
-            //References(x => x.Departamento)
-            //    .Column("deptno")
-            //    .Not.Nullable();
+            References(x => x.Departamento)
+                .Column("deptno")
+                .Not.LazyLoad()
+                .Fetch.Join();
         }
     }
 }

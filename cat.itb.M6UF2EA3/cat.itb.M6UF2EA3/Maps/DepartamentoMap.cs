@@ -1,5 +1,6 @@
 ﻿using cat.itb.M6UF2EA3.Model;
 using FluentNHibernate.Mapping;
+using System.Xml.Serialization;
 
 namespace cat.itb.M6UF2EA3.Maps
 {
@@ -18,9 +19,11 @@ namespace cat.itb.M6UF2EA3.Maps
 
             Map(x => x.Loc).Column("loc");
 
-            //HasMany(x => x.Empleados)
-            //    .KeyColumn("deptno")
-            //    .Inverse();
+            HasMany(x => x.Empleados)
+                .KeyColumn("deptno")
+                .Not.LazyLoad()
+                .Cascade.AllDeleteOrphan()
+                .Fetch.Join();
         }
     }
 }

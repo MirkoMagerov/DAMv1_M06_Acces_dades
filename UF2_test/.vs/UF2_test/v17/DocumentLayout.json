@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\cruds\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\cruds\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\maps\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\maps\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\files\\student.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\files\\student.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\connections\\schoolconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\connections\\schoolconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\connections\\sessionfactorycloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\connections\\sessionfactorycloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\connections\\cloudconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\connections\\cloudconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\connections\\sessionfactorylocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\connections\\sessionfactorylocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|e:\\damv1\\damv1_m06_acces_dades\\uf2_test\\uf2_test\\cruds\\asignaturascrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087F1364-154A-4296-84D8-40C926827D93}|UF2_test\\UF2_test.csproj|solutionrelative:uf2_test\\cruds\\asignaturascrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\Program.cs",
+              "RelativeDocumentMoniker": "UF2_test\\Program.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\Program.cs",
+              "RelativeToolTip": "UF2_test\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:01:59.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsignaturasCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\cruds\\AsignaturasCRUD.cs",
+              "RelativeDocumentMoniker": "UF2_test\\cruds\\AsignaturasCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\cruds\\AsignaturasCRUD.cs",
+              "RelativeToolTip": "UF2_test\\cruds\\AsignaturasCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:58:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionFactoryLocal.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\SessionFactoryLocal.cs",
+              "RelativeDocumentMoniker": "UF2_test\\connections\\SessionFactoryLocal.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\SessionFactoryLocal.cs",
+              "RelativeToolTip": "UF2_test\\connections\\SessionFactoryLocal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:56:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CloudConnection.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\CloudConnection.cs",
+              "RelativeDocumentMoniker": "UF2_test\\connections\\CloudConnection.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\CloudConnection.cs",
+              "RelativeToolTip": "UF2_test\\connections\\CloudConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:55:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionFactoryCloud.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\SessionFactoryCloud.cs",
+              "RelativeDocumentMoniker": "UF2_test\\connections\\SessionFactoryCloud.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\SessionFactoryCloud.cs",
+              "RelativeToolTip": "UF2_test\\connections\\SessionFactoryCloud.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:56:02.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\cruds\\StudentCRUD.cs",
+              "RelativeDocumentMoniker": "UF2_test\\cruds\\StudentCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\cruds\\StudentCRUD.cs",
+              "RelativeToolTip": "UF2_test\\cruds\\StudentCRUD.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:39:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\maps\\StudentMap.cs",
+              "RelativeDocumentMoniker": "UF2_test\\maps\\StudentMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\maps\\StudentMap.cs",
+              "RelativeToolTip": "UF2_test\\maps\\StudentMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:00:44.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\model\\Student.cs",
+              "RelativeDocumentMoniker": "UF2_test\\model\\Student.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\model\\Student.cs",
+              "RelativeToolTip": "UF2_test\\model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:04:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneralCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\cruds\\GeneralCRUD.cs",
+              "RelativeDocumentMoniker": "UF2_test\\cruds\\GeneralCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\cruds\\GeneralCRUD.cs",
+              "RelativeToolTip": "UF2_test\\cruds\\GeneralCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:05:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.sql",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\files\\student.sql",
+              "RelativeDocumentMoniker": "UF2_test\\files\\student.sql",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\files\\student.sql",
+              "RelativeToolTip": "UF2_test\\files\\student.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-03T21:06:03.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolConnection.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\SchoolConnection.cs",
+              "RelativeDocumentMoniker": "UF2_test\\connections\\SchoolConnection.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\UF2_test\\UF2_test\\connections\\SchoolConnection.cs",
+              "RelativeToolTip": "UF2_test\\connections\\SchoolConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:55:22.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
