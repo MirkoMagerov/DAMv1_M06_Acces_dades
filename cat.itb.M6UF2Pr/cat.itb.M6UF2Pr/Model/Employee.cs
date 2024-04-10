@@ -10,7 +10,7 @@
         public virtual double Salary { get; set; }
         public virtual double Commission { get; set; }
         public virtual int Deptno { get; set; }
-        public virtual IList<Product> Products { get; set; }
+        public virtual ISet<Product> Products { get; set; }
 
         public override string ToString()
         {

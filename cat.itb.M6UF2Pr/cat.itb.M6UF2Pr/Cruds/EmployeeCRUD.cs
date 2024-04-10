@@ -1,12 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using cat.itb.M6UF2EA3;
+using cat.itb.M6UF2Pr.Model;
 
 namespace cat.itb.M6UF2Pr.Cruds
 {
-    internal class EmployeeCRUD
+    public class EmployeeCRUD
     {
+        public Employee SelectById(int id)
+        {
+            Employee emp;
+            using (var session = SessionFactoryCloud.Open())
+            {
+                emp = session.Get<Employee>(id);
+            }
+            return emp;
+        }
     }
 }

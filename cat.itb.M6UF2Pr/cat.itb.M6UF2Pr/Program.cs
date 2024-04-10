@@ -6,14 +6,12 @@ namespace cat.itb.M6UF2Pr
     {
         public static void Main()
         {
-            List<string> tables =
-            [
-                "employee", "product", "supplier", "orderp"
-            ];
+            List<string> tables = ["employee", "product", "supplier", "orderp"];
 
             GeneralCRUD genCrud = new GeneralCRUD();
+            EmployeeCRUD empCrud = new EmployeeCRUD();
 
-            genCrud.RunScriptShop();
+            empCrud.SelectById(3);
         }
     }
 }
