@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\connections\\cloudconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\connections\\cloudconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\ordercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\ordercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\maps\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\maps\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\maps\\ordermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\maps\\ordermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\maps\\suppliermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\maps\\suppliermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\maps\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\maps\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Program.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Program.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Program.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.532Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloudConnection.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Order.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Order.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\SupplierMap.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\SupplierMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\SupplierMap.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Maps\\SupplierMap.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\OrderMap.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\OrderMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\OrderMap.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Maps\\OrderMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\EmployeeMap.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\EmployeeMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\EmployeeMap.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Maps\\EmployeeMap.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Employee.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Employee.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Supplier.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Supplier.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Model\\Supplier.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Product.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Product.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\ProductMap.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\ProductMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\ProductMap.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Maps\\ProductMap.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

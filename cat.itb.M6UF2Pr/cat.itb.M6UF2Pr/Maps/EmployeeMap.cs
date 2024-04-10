@@ -9,8 +9,7 @@ namespace cat.itb.M6UF2Pr.Maps
         {
             Table("employee");
 
-            Id(x => x.Id);
-
+            Id(x => x.Id).GeneratedBy.Identity();
             Map(x => x.Surname).Column("surname");
             Map(x => x.Job).Column("job");
             Map(x => x.Managerno).Column("managerno");
@@ -21,8 +20,10 @@ namespace cat.itb.M6UF2Pr.Maps
             HasMany(x => x.Products)
                 .KeyColumn("empno")
                 .Not.LazyLoad()
+                .Inverse()
                 .Cascade.AllDeleteOrphan()
-                .Fetch.Join();
+                .Fetch.Join()
+                .AsSet();
         }
     }
 }

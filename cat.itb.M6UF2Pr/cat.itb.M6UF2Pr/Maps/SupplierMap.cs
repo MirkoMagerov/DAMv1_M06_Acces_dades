@@ -9,7 +9,7 @@ namespace cat.itb.M6UF2Pr.Maps
         {
             Table("supplier");
 
-            Id(x => x.Id);
+            Id(x => x.Id).GeneratedBy.Identity();
 
             Map(x => x.Name);
             Map(x => x.Address);
@@ -18,19 +18,21 @@ namespace cat.itb.M6UF2Pr.Maps
             Map(x => x.Zipcode);
             Map(x => x.Area);
             Map(x => x.Phone);
+            Map(x => x.Amount);
+            Map(x => x.Credit);
+            Map(x => x.Remark);
+
             HasOne(x => x.Product)
-               .ForeignKey("productno")
-               .Cascade.All()
-               .Fetch.Join();
+                .ForeignKey("productno")
+                .Not.LazyLoad()
+                .Cascade.All()
+                .Fetch.Join();
 
             HasMany(x => x.Orders)
                 .KeyColumn("supplierno")
                 .Cascade.AllDeleteOrphan()
-                .Inverse();
-
-            Map(x => x.Amount);
-            Map(x => x.Credit);
-            Map(x => x.Remark);
+                .Inverse()
+                .AsSet();
         }
     }
 }

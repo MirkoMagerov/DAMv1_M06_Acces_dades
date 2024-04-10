@@ -8,7 +8,7 @@
         public virtual int Managerno { get; set; }
         public virtual DateTime Startdate { get; set; }
         public virtual double Salary { get; set; }
-        public virtual double Commission { get; set; }
+        public virtual double? Commission { get; set; }
         public virtual int Deptno { get; set; }
         public virtual ISet<Product> Products { get; set; }
 

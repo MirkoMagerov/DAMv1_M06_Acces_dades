@@ -1,4 +1,5 @@
-﻿using cat.itb.M6UF2Pr.Connections;
+﻿using cat.itb.M6UF2EA3;
+using cat.itb.M6UF2Pr.Connections;
 using Npgsql;
 
 namespace cat.itb.M6UF2Pr.Cruds
@@ -47,6 +48,98 @@ namespace cat.itb.M6UF2Pr.Cruds
             }
 
             conn.Close();
+        }
+
+        public T SelectById<T>(int id) where T : class
+        {
+            T entity;
+            using (var session = SessionFactoryCloud.Open())
+            {
+                entity = session.Get<T>(id);
+            }
+            return entity;
+        }
+
+        public IList<T> SelectAll<T>() where T : class
+        {
+            IList<T> list;
+            using (var session = SessionFactoryCloud.Open())
+            {
+                list = session.Query<T>().ToList();
+            }
+            return list;
+        }
+
+        public void Insert<T>(T entity) where T : class
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                using (var tx = session.BeginTransaction())
+                {
+                    try
+                    {
+                        session.Save(entity);
+                        tx.Commit();
+                        Console.WriteLine($"✅ Registro insertado: {entity}");
+                    }
+                    catch (Exception ex)
+                    {
+                        if (!tx.WasCommitted)
+                        {
+                            tx.Rollback();
+                        }
+                        Console.WriteLine($"❎ ERROR al insertar: {ex.Message}");
+                    }
+                }
+            }
+        }
+
+        public void Update<T>(T entity) where T : class
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                using (var tx = session.BeginTransaction())
+                {
+                    try
+                    {
+                        session.Update(entity);
+                        tx.Commit();
+                        Console.WriteLine($"✅ Registro actualizado: {entity}");
+                    }
+                    catch (Exception ex)
+                    {
+                        if (!tx.WasCommitted)
+                        {
+                            tx.Rollback();
+                        }
+                        Console.WriteLine($"❎ ERROR al actualizar: {ex.Message}");
+                    }
+                }
+            }
+        }
+
+        public void Delete<T>(T entity) where T : class
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                using (var tx = session.BeginTransaction())
+                {
+                    try
+                    {
+                        session.Delete(entity);
+                        tx.Commit();
+                        Console.WriteLine($"✅ Registro borrado: {entity}");
+                    }
+                    catch (Exception ex)
+                    {
+                        if (!tx.WasCommitted)
+                        {
+                            tx.Rollback();
+                        }
+                        Console.WriteLine($"❎ ERROR al borrar: {ex.Message}");
+                    }
+                }
+            }
         }
     }
 }

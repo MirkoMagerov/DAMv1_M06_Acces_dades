@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\",
+  "WorkspaceRootPath": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\maps\\empleadomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\maps\\empleadomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\model\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\cruds\\empleadoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\cruds\\empleadoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\maps\\empleadomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\maps\\empleadomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\model\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\model\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\connections\\sessionfactorycloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\connections\\sessionfactorycloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\connections\\sessionfactorycloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\cruds\\departamentoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\cruds\\departamentoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\cruds\\departamentoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\maps\\departamentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea4\\cat.itb.m6uf2ea3\\maps\\departamentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\maps\\departamentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2ea3\\cat.itb.m6uf2ea3\\cruds\\empleadoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F52462AB-305F-4E9B-83D3-BB77C96A85C6}|cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3.csproj|solutionrelative:cat.itb.m6uf2ea3\\cruds\\empleadoscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +42,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Program.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Program.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Program.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Program.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Program.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Program.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAgwGsAAAA0AAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwHAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T17:00:30.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "EmpleadosCRUD.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Cruds\\EmpleadosCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Cruds\\EmpleadosCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Cruds\\EmpleadosCRUD.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Cruds\\EmpleadosCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Cruds\\EmpleadosCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Cruds\\EmpleadosCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T17:00:30.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DepartamentosCRUD.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Cruds\\DepartamentosCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Cruds\\DepartamentosCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Cruds\\DepartamentosCRUD.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Cruds\\DepartamentosCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Cruds\\DepartamentosCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Cruds\\DepartamentosCRUD.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAqwF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:00:30.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T17:00:30.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DepartamentoMap.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Maps\\DepartamentoMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Maps\\DepartamentoMap.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Maps\\DepartamentoMap.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Maps\\DepartamentoMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Maps\\DepartamentoMap.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Maps\\DepartamentoMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:00:30.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T17:00:30.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EmpleadoMap.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Maps\\EmpleadoMap.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Maps\\EmpleadoMap.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Maps\\EmpleadoMap.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Maps\\EmpleadoMap.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Maps\\EmpleadoMap.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Maps\\EmpleadoMap.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwB4AAAAnAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T17:00:30.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Departamento.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Model\\Departamento.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Model\\Departamento.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Model\\Departamento.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Model\\Departamento.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Model\\Departamento.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Model\\Departamento.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:00:30.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Model\\Empleado.cs",
-              "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Model\\Empleado.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Model\\Empleado.cs",
-              "RelativeToolTip": "cat.itb.M6UF2EA3\\Model\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:00:30.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T17:00:30.17Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Model\\Empleado.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Model\\Empleado.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Model\\Empleado.cs",
+              "RelativeToolTip": "cat.itb.M6UF2EA3\\Model\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:00:30.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SessionFactoryCloud.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Connections\\SessionFactoryCloud.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Connections\\SessionFactoryCloud.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2EA3\\Connections\\SessionFactoryCloud.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA3\\cat.itb.M6UF2EA3\\Connections\\SessionFactoryCloud.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2EA4\\cat.itb.M6UF2EA3\\Connections\\SessionFactoryCloud.cs",
               "RelativeToolTip": "cat.itb.M6UF2EA3\\Connections\\SessionFactoryCloud.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:00:30.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T17:00:30.174Z"
             }
           ]
         }

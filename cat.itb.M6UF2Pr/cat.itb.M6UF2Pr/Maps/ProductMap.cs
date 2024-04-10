@@ -7,9 +7,9 @@ namespace cat.itb.M6UF2Pr.Maps
     {
         public ProductMap()
         {
-            Table("orderp");
+            Table("product");
 
-            Id(x => x.Id);
+            Id(x => x.Id).GeneratedBy.Identity();
 
             Map(x => x.Code);
             Map(x => x.Description);
@@ -17,15 +17,15 @@ namespace cat.itb.M6UF2Pr.Maps
             Map(x => x.Minstock);
             Map(x => x.Price);
             Map(x => x.Empno);
-
             HasOne(x => x.Employee)
                 .ForeignKey("empno")
-                .Cascade.All()
                 .Not.LazyLoad()
+                .Cascade.All()
                 .Fetch.Join();
 
-            References(x => x.Supplier)
-                .Column("supplierid")
+            HasOne(x => x.Supplier)
+                .ForeignKey("")
+                .Not.LazyLoad()
                 .Cascade.All()
                 .Fetch.Join();
         }
