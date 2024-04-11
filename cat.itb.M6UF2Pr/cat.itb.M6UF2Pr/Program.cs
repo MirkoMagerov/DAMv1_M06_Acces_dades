@@ -1,5 +1,6 @@
 ﻿using cat.itb.M6UF2Pr.Cruds;
 using cat.itb.M6UF2Pr.Model;
+using System.Security.Cryptography.X509Certificates;
 
 namespace cat.itb.M6UF2Pr
 {
@@ -30,21 +31,44 @@ namespace cat.itb.M6UF2Pr
             //genCrud.DropTables(tables);
             //genCrud.RunScriptShop();
 
+            //Console.WriteLine(genCrud.SelectById<Employee>(1));
+            //Console.WriteLine(genCrud.SelectById<Product>(1));
+            //Console.WriteLine(genCrud.SelectById<Supplier>(1));
+            //Console.WriteLine(genCrud.SelectById<Order>(1));
+
             bool continuar = true;
             
             while (continuar)
             {
+                Console.WriteLine(genCrud.SelectById<Employee>(3));
+
                 Console.Write("Introduce el número del ejercicio: ");
                 int opcion = int.Parse(Console.ReadLine());
 
-                Console.WriteLine();
+                
 
                 switch (opcion)
                 {
                     case 1:
                         empCrud.InsertADO(employeesEX1);
                         break;
+                    case 2:
+                        EX2();
+                        break;
                 }
+            }
+
+            void EX2()
+            {
+                Product product1 = productCrud.SelectByCodeADO(100890);
+                Product product2 = productCrud.SelectByCodeADO(100890);
+                Product product3 = productCrud.SelectByCodeADO(100890);
+                Product product4 = productCrud.SelectByCodeADO(100890);
+
+                productCrud.UpdateADO(product1, 8);
+                productCrud.UpdateADO(product2, 7);
+                productCrud.UpdateADO(product3, 9);
+                productCrud.UpdateADO(product4, 12);
             }
         }
     }
