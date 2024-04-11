@@ -8,7 +8,6 @@ namespace cat.itb.M6UF2Pr
     {
         public static void Main()
         {
-            GeneralCRUD genCrud = new GeneralCRUD();
             EmployeeCRUD empCrud = new EmployeeCRUD();
             ProductCRUD productCrud = new ProductCRUD();
             SupplierCRUD supplierCrud = new SupplierCRUD();
@@ -28,24 +27,22 @@ namespace cat.itb.M6UF2Pr
             ];
             #endregion
 
-            //genCrud.DropTables(tables);
-            //genCrud.RunScriptShop();
+            //GeneralCRUD.DropTables(tables);
+            //GeneralCRUD.RunScriptShop();
 
-            //Console.WriteLine(genCrud.SelectById<Employee>(1));
-            //Console.WriteLine(genCrud.SelectById<Product>(1));
-            //Console.WriteLine(genCrud.SelectById<Supplier>(1));
-            //Console.WriteLine(genCrud.SelectById<Order>(1));
+            //Console.WriteLine(GeneralCRUD.SelectById<Employee>(1));
+            //Console.WriteLine(GeneralCRUD.SelectById<Product>(1));
+            //Console.WriteLine(GeneralCRUD.SelectById<Supplier>(1));
+            //Console.WriteLine(GeneralCRUD.SelectById<Order>(1));
 
             bool continuar = true;
             
             while (continuar)
             {
-                Console.WriteLine(genCrud.SelectById<Employee>(3));
-
                 Console.Write("Introduce el número del ejercicio: ");
                 int opcion = int.Parse(Console.ReadLine());
 
-                
+                Console.WriteLine();
 
                 switch (opcion)
                 {
@@ -61,9 +58,9 @@ namespace cat.itb.M6UF2Pr
             void EX2()
             {
                 Product product1 = productCrud.SelectByCodeADO(100890);
-                Product product2 = productCrud.SelectByCodeADO(100890);
-                Product product3 = productCrud.SelectByCodeADO(100890);
-                Product product4 = productCrud.SelectByCodeADO(100890);
+                Product product2 = productCrud.SelectByCodeADO(200376);
+                Product product3 = productCrud.SelectByCodeADO(200380);
+                Product product4 = productCrud.SelectByCodeADO(100861);
 
                 productCrud.UpdateADO(product1, 8);
                 productCrud.UpdateADO(product2, 7);

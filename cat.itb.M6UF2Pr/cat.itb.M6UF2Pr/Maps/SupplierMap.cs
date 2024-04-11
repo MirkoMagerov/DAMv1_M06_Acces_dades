@@ -22,8 +22,7 @@ namespace cat.itb.M6UF2Pr.Maps
             Map(x => x.Credit);
             Map(x => x.Remark);
 
-            HasOne(x => x.Product)
-                .ForeignKey("productno")
+            References(x => x.Product, "productno")
                 .Not.LazyLoad()
                 .Cascade.All()
                 .Fetch.Join();

@@ -16,9 +16,8 @@ namespace cat.itb.M6UF2Pr.Maps
             Map(x => x.Currentstock);
             Map(x => x.Minstock);
             Map(x => x.Price);
-            Map(x => x.Empno);
-            HasOne(x => x.Employee)
-                .ForeignKey("empno")
+
+            References(x => x.Employee, "empno")
                 .Not.LazyLoad()
                 .Cascade.All()
                 .Fetch.Join();

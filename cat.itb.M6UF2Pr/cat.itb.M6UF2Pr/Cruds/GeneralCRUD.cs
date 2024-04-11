@@ -4,9 +4,9 @@ using Npgsql;
 
 namespace cat.itb.M6UF2Pr.Cruds
 {
-    public class GeneralCRUD
+    public static class GeneralCRUD
     {
-        public void DropTables(List<string> tables)
+        public static void DropTables(List<string> tables)
         {
             CloudConnection db = new CloudConnection();
 
@@ -30,7 +30,7 @@ namespace cat.itb.M6UF2Pr.Cruds
             }
         }
 
-        public void RunScriptShop()
+        public static void RunScriptShop()
         {
             CloudConnection db = new CloudConnection();
             var conn = db.GetConnection();
@@ -50,7 +50,7 @@ namespace cat.itb.M6UF2Pr.Cruds
             conn.Close();
         }
 
-        public T SelectById<T>(int id) where T : class
+        public static T SelectById<T>(int id) where T : class
         {
             T entity;
             using (var session = SessionFactoryCloud.Open())
@@ -60,7 +60,7 @@ namespace cat.itb.M6UF2Pr.Cruds
             return entity;
         }
 
-        public IList<T> SelectAll<T>() where T : class
+        public static IList<T> SelectAll<T>() where T : class
         {
             IList<T> list;
             using (var session = SessionFactoryCloud.Open())
@@ -70,7 +70,7 @@ namespace cat.itb.M6UF2Pr.Cruds
             return list;
         }
 
-        public void Insert<T>(T entity) where T : class
+        public static void Insert<T>(T entity) where T : class
         {
             using (var session = SessionFactoryCloud.Open())
             {
@@ -94,7 +94,7 @@ namespace cat.itb.M6UF2Pr.Cruds
             }
         }
 
-        public void Update<T>(T entity) where T : class
+        public static void Update<T>(T entity) where T : class
         {
             using (var session = SessionFactoryCloud.Open())
             {
@@ -118,7 +118,7 @@ namespace cat.itb.M6UF2Pr.Cruds
             }
         }
 
-        public void Delete<T>(T entity) where T : class
+        public static void Delete<T>(T entity) where T : class
         {
             using (var session = SessionFactoryCloud.Open())
             {

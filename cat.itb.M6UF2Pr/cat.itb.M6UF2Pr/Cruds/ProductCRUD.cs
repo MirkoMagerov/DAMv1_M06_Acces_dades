@@ -7,20 +7,20 @@ namespace cat.itb.M6UF2Pr.Cruds
 {
     public class ProductCRUD
     {
-        public Product SelectByCodeADO(int id)
+        public Product SelectByCodeADO(int code)
         {
             CloudConnection conn = new CloudConnection();
             List<Product> products;
 
             using (NpgsqlConnection session = conn.GetConnection())
             {
-                string query = "SELECT * FROM product WHERE id = @id";
+                string query = "SELECT * FROM product WHERE code = @code";
 
                 using (NpgsqlCommand cmd = new NpgsqlCommand(query, session))
                 {
                     try
                     {
-                        cmd.Parameters.AddWithValue("@id", id);
+                        cmd.Parameters.AddWithValue("@code", code);
 
                         using (NpgsqlDataReader reader = cmd.ExecuteReader())
                         {
@@ -32,7 +32,8 @@ namespace cat.itb.M6UF2Pr.Cruds
                                 product.Currentstock = reader.GetInt32(reader.GetOrdinal("currentstock"));
                                 product.Minstock = reader.GetInt32(reader.GetOrdinal("minstock"));
                                 product.Price = reader.GetDouble(reader.GetOrdinal("price"));
-                                product.Empno = reader.GetInt32(reader.GetOrdinal("empno"));
+                                int empNo = reader.GetInt32(reader.GetOrdinal("empno"));
+                                product.Employee = GeneralCRUD.SelectById<Employee>(empNo);
 
                                 Console.WriteLine("Product seleccionado correctamente.");
 
@@ -66,6 +67,8 @@ namespace cat.itb.M6UF2Pr.Cruds
                         cmd.Parameters.AddWithValue("@code", product.Code);
 
                         cmd.ExecuteNonQuery();
+
+                        Console.WriteLine($"Producto actualizado correctamente.");
                     }
                     catch (Exception ex)
                     {

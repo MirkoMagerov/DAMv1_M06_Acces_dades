@@ -9,16 +9,15 @@ namespace cat.itb.M6UF2Pr.Maps
         {
             Table("orderp");
 
-            Id(x => x.Id);
-            Map(x => x.Supplierno);
+            Id(x => x.Id).GeneratedBy.Identity();
             Map(x => x.Orderdate);
             Map(x => x.Amount);
             Map(x => x.Deliverydate);
             Map(x => x.Cost);
 
-            HasOne(x => x.Supplier)
-                .ForeignKey("supplierno")
+            References(x => x.Supplier, "supplierno")
                 .Not.LazyLoad()
+                .Cascade.AllDeleteOrphan()
                 .Fetch.Join();
         }
     }
