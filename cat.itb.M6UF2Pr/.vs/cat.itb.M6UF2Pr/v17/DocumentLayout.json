@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\ordercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\ordercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +27,16 @@
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\connections\\cloudconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\connections\\cloudconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\ordercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\ordercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\maps\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\maps\\suppliermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Program.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Program.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Program.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAkAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAASwDsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.532Z",
               "IsPinned": true,
@@ -94,76 +94,66 @@
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EmployeeCRUD.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswBUAAAA7AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CloudConnection.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
-              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
-              "RelativeToolTip": "cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderCRUD.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
-              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
-              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductCRUD.cs",
-              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
-              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
-              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
-              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "SupplierCRUD.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.593Z"
+              "WhenOpened": "2024-04-10T12:29:00.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "OrderCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Order.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Order.cs",
@@ -175,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SupplierMap.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\SupplierMap.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\SupplierMap.cs",
@@ -187,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OrderMap.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\OrderMap.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\OrderMap.cs",
@@ -199,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EmployeeMap.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Maps\\EmployeeMap.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Maps\\EmployeeMap.cs",
@@ -211,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Employee.cs",
@@ -223,15 +213,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Supplier.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Supplier.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Model\\Supplier.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Model\\Supplier.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Model\\Supplier.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.579Z"
+              "WhenOpened": "2024-04-10T12:29:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CloudConnection.cs",
+              "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "RelativeToolTip": "cat.itb.M6UF2Pr\\Connections\\CloudConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:29:00.591Z"
             },
             {
               "$type": "Document",

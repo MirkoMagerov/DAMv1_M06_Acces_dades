@@ -52,6 +52,12 @@ namespace cat.itb.M6UF2Pr
                     case 2:
                         EX2();
                         break;
+                    case 3:
+                        EX3();
+                        break;
+                    case 4:
+                        EX4();
+                        break;
                 }
             }
 
@@ -66,6 +72,28 @@ namespace cat.itb.M6UF2Pr
                 productCrud.UpdateADO(product2, 7);
                 productCrud.UpdateADO(product3, 9);
                 productCrud.UpdateADO(product4, 12);
+            }
+
+            void EX3()
+            {
+                const int supplierId = 6;
+                List<Order> orders = orderCrud.SelectOrderSupplierADO(supplierId);
+                double costTotal = orders.Sum(x => x.Cost * x.Amount);
+                double quantitat = orders.Sum(x => x.Amount);
+                Console.WriteLine($"El proveïdor amb id {supplierId} ha facturat un total de {costTotal} per una quantitat igual a {quantitat}.");
+            }
+
+            void EX4()
+            {
+                const int creditAmount = 8000;
+                List<Supplier> suppliers = supplierCrud.SelectCreditHigherThanADO(creditAmount);
+                Console.WriteLine($"Proveïdors que tenen un credit superior a {creditAmount}: ");
+                Console.WriteLine();
+                foreach ( Supplier supplier in suppliers )
+                {
+                    Console.WriteLine(supplier);
+                    Console.WriteLine();
+                }
             }
         }
     }
