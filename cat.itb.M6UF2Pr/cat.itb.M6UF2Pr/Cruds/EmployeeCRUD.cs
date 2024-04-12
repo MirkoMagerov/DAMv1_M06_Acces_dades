@@ -2,6 +2,7 @@
 using cat.itb.M6UF2Pr.Connections;
 using cat.itb.M6UF2Pr.Model;
 using Npgsql;
+using System.Security.Cryptography.X509Certificates;
 
 namespace cat.itb.M6UF2Pr.Cruds
 {
@@ -34,13 +35,88 @@ namespace cat.itb.M6UF2Pr.Cruds
                             cmd.ExecuteNonQuery();
                         }
 
-                        Console.WriteLine("Empleats inserits correctament");
+                        Console.WriteLine("Empleados insertados correctamente.");
                     }
                     catch (Exception ex)
                     {
                         Console.WriteLine($"ERROR: {ex.Message}");
                     }
                 }
+            }
+        }
+
+        public Employee SelectByNameADO(string name)
+        {
+            CloudConnection conn = new CloudConnection();
+
+            using (NpgsqlConnection session = conn.GetConnection())
+            {
+                string query = "SELECT * FROM employee WHERE surname LIKE @surname";
+
+                using (NpgsqlCommand cmd = new NpgsqlCommand(query, session))
+                {
+                    try
+                    {
+                        cmd.Parameters.AddWithValue("@surname", name);
+
+                        using (NpgsqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            if (reader.Read())
+                            {
+                                Employee emp = new Employee();
+                                emp.Id = reader.GetInt32(reader.GetOrdinal("id"));
+                                emp.Surname = reader.GetString(reader.GetOrdinal("surname"));
+                                emp.Job = reader.GetString(reader.GetOrdinal("job"));
+                                emp.Managerno = reader.GetInt32(reader.GetOrdinal("managerno"));
+                                emp.Startdate = reader.GetDateTime(reader.GetOrdinal("startdate"));
+                                emp.Salary = reader.GetDouble(reader.GetOrdinal("salary"));
+                                emp.Commission = reader.GetDouble(reader.GetOrdinal("commission"));
+                                emp.Deptno = reader.GetInt32(reader.GetOrdinal("deptno"));
+
+                                return emp;
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"ERROR: {ex.Message}");
+                    }
+
+                    return null;
+                }
+            }
+        }
+
+        public void DeleteADO(Employee emp)
+        {
+            string query = "DELETE FROM employee WHERE id = @id";
+
+            CloudConnection conn = new CloudConnection();
+
+            using (NpgsqlConnection session = conn.GetConnection())
+            {
+                using (NpgsqlCommand cmd = new NpgsqlCommand(query, session))
+                {
+                    try
+                    {
+                        cmd.Parameters.AddWithValue("@id", emp.Id);
+                        cmd.ExecuteNonQuery();
+
+                        Console.WriteLine($"Empleado con nombre {emp.Surname} eliminado correctamente.");
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"ERROR: {ex.Message}");
+                    }
+                }
+            }
+        }
+
+        public Employee SelectByName(string name)
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                return session.Query<Employee>().FirstOrDefault(x => x.Surname == name);
             }
         }
     }

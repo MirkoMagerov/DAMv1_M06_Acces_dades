@@ -60,9 +60,9 @@ namespace cat.itb.M6UF2Pr.Cruds
             return entity;
         }
 
-        public static IList<T> SelectAll<T>() where T : class
+        public static List<T> SelectAll<T>() where T : class
         {
-            IList<T> list;
+            List<T> list;
             using (var session = SessionFactoryCloud.Open())
             {
                 list = session.Query<T>().ToList();
@@ -80,7 +80,7 @@ namespace cat.itb.M6UF2Pr.Cruds
                     {
                         session.Save(entity);
                         tx.Commit();
-                        Console.WriteLine($"✅ Registro insertado: {entity}");
+                        Console.WriteLine($"Registro insertado: {entity}");
                     }
                     catch (Exception ex)
                     {
@@ -88,7 +88,7 @@ namespace cat.itb.M6UF2Pr.Cruds
                         {
                             tx.Rollback();
                         }
-                        Console.WriteLine($"❎ ERROR al insertar: {ex.Message}");
+                        Console.WriteLine($"ERROR al insertar: {ex.Message}");
                     }
                 }
             }
@@ -104,7 +104,7 @@ namespace cat.itb.M6UF2Pr.Cruds
                     {
                         session.Update(entity);
                         tx.Commit();
-                        Console.WriteLine($"✅ Registro actualizado: {entity}");
+                        Console.WriteLine($"Registro actualizado: {entity}");
                     }
                     catch (Exception ex)
                     {
@@ -112,7 +112,7 @@ namespace cat.itb.M6UF2Pr.Cruds
                         {
                             tx.Rollback();
                         }
-                        Console.WriteLine($"❎ ERROR al actualizar: {ex.Message}");
+                        Console.WriteLine($"ERROR al actualizar: {ex.Message}");
                     }
                 }
             }

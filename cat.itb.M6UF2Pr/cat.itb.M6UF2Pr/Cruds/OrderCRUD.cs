@@ -1,15 +1,17 @@
 ﻿using cat.itb.M6UF2EA3;
 using cat.itb.M6UF2Pr.Connections;
 using cat.itb.M6UF2Pr.Model;
+using NHibernate;
+using NHibernate.Criterion;
 using Npgsql;
 
 namespace cat.itb.M6UF2Pr.Cruds
 {
     public class OrderCRUD
     {
-        public List<Order> SelectOrderSupplierADO(int supplierId)
+        public List<Model.Order> SelectOrderSupplierADO(int supplierId)
         {
-            List<Order> orders = new List<Order>(); 
+            List<Model.Order> orders = new List<Model.Order>(); 
             CloudConnection conn = new CloudConnection();
 
             using (NpgsqlConnection session = conn.GetConnection())
@@ -26,7 +28,7 @@ namespace cat.itb.M6UF2Pr.Cruds
                         {
                             while (reader.Read())
                             {
-                                Order order = new Order();
+                                Model.Order order = new Model.Order();
                                 order.Supplier = GeneralCRUD.SelectById<Supplier>(supplierId);
                                 order.Orderdate = reader.GetDateTime(reader.GetOrdinal("orderdate"));
                                 order.Amount = reader.GetInt32(reader.GetOrdinal("amount"));
@@ -47,6 +49,21 @@ namespace cat.itb.M6UF2Pr.Cruds
             }
 
             return null;
+        }
+
+        public List<Model.Order> SelectByCostHigherThan(int cost, int quantity)
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                ICriteria criteria = session.CreateCriteria<Model.Order>();
+
+                criteria.Add(Restrictions.Gt("Cost", cost));
+                criteria.Add(Restrictions.Eq("Quantity", quantity));
+
+                IList<Model.Order> orders = criteria.List<Model.Order>();
+
+                return new List<Model.Order>(orders);
+            }
         }
     }
 }

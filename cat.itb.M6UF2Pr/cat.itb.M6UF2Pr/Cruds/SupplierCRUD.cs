@@ -54,5 +54,13 @@ namespace cat.itb.M6UF2Pr.Cruds
                 }
             }
         }
+
+        public List<Supplier> SelectByCity(string city)
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                return session.Query<Supplier>().Where(x => x.City == city).ToList();
+            }
+        }
     }
 }

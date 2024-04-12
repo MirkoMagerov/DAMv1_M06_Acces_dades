@@ -18,6 +18,7 @@ namespace cat.itb.M6UF2Pr.Maps
             Map(x => x.Price);
 
             References(x => x.Employee, "empno")
+                .Column("empno")
                 .Not.LazyLoad()
                 .Cascade.All()
                 .Fetch.Join();

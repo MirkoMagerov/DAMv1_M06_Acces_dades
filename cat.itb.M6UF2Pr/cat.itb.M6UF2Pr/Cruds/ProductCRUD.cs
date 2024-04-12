@@ -10,7 +10,6 @@ namespace cat.itb.M6UF2Pr.Cruds
         public Product SelectByCodeADO(int code)
         {
             CloudConnection conn = new CloudConnection();
-            List<Product> products;
 
             using (NpgsqlConnection session = conn.GetConnection())
             {

@@ -1,5 +1,6 @@
 ﻿using cat.itb.M6UF2Pr.Cruds;
 using cat.itb.M6UF2Pr.Model;
+using System;
 using System.Security.Cryptography.X509Certificates;
 
 namespace cat.itb.M6UF2Pr
@@ -13,30 +14,20 @@ namespace cat.itb.M6UF2Pr
             SupplierCRUD supplierCrud = new SupplierCRUD();
             OrderCRUD orderCrud = new OrderCRUD();
 
-            #region Variables usadas como parametros
             // Nombres tablas
             List<string> tables = ["employee", "product", "supplier", "orderp"];
 
             // EX 1
             List<Employee> employeesEX1 =
             [
-                new Employee {Surname = "SMITH", Job = "DIRECTOR", Managerno = 9, Startdate = new DateTime(1988, 12, 12), Salary = 118000, Commission = 52000, Deptno = 10},
-                new Employee {Surname = "JOHNSON", Job = "VENEDOR", Managerno = 4, Startdate = new DateTime(1992, 02, 25), Salary = 125000, Commission = 30000, Deptno = 30},
-                new Employee {Surname = "HAMILTON", Job = "ANALISTA", Managerno = 7, Startdate = new DateTime(1989, 03, 18), Salary = 172000, Commission = null, Deptno = 10},
-                new Employee {Surname = "JACKSON", Job = "ANALISTA", Managerno = 7, Startdate = new DateTime(2001, 10, 25), Salary = 192000, Commission = null, Deptno = 10}
+                new Employee { Surname = "SMITH", Job = "DIRECTOR", Managerno = 9, Startdate = new DateTime(1988, 12, 12), Salary = 118000, Commission = 52000, Deptno = 10 },
+                new Employee { Surname = "JOHNSON", Job = "VENEDOR", Managerno = 4, Startdate = new DateTime(1992, 02, 25), Salary = 125000, Commission = 30000, Deptno = 30 },
+                new Employee { Surname = "HAMILTON", Job = "ANALISTA", Managerno = 7, Startdate = new DateTime(1989, 03, 18), Salary = 172000, Commission = null, Deptno = 10 },
+                new Employee { Surname = "JACKSON", Job = "ANALISTA", Managerno = 7, Startdate = new DateTime(2001, 10, 25), Salary = 192000, Commission = null, Deptno = 10 }
             ];
-            #endregion
-
-            //GeneralCRUD.DropTables(tables);
-            //GeneralCRUD.RunScriptShop();
-
-            //Console.WriteLine(GeneralCRUD.SelectById<Employee>(1));
-            //Console.WriteLine(GeneralCRUD.SelectById<Product>(1));
-            //Console.WriteLine(GeneralCRUD.SelectById<Supplier>(1));
-            //Console.WriteLine(GeneralCRUD.SelectById<Order>(1));
 
             bool continuar = true;
-            
+
             while (continuar)
             {
                 Console.Write("Introduce el número del ejercicio: ");
@@ -46,6 +37,12 @@ namespace cat.itb.M6UF2Pr
 
                 switch (opcion)
                 {
+                    case -1:
+                        GeneralCRUD.DropTables(tables);
+                        break;
+                    case 0:
+                        GeneralCRUD.RunScriptShop();
+                        break;
                     case 1:
                         empCrud.InsertADO(employeesEX1);
                         break;
@@ -58,7 +55,27 @@ namespace cat.itb.M6UF2Pr
                     case 4:
                         EX4();
                         break;
+                    case 5:
+                        empCrud.DeleteADO(empCrud.SelectByNameADO("SMITH"));
+                        break;
+                    case 6:
+                        EX6();
+                        break;
+                    case 7:
+                        EX7();
+                        break;
+                    case 8:
+                        EX8();
+                        break;
+                    case 9:
+                        EX9();
+                        break;
+                    default:
+                        Console.WriteLine("Opción incorrecta.");
+                        break;
                 }
+
+                Console.WriteLine();
             }
 
             void EX2()
@@ -89,9 +106,108 @@ namespace cat.itb.M6UF2Pr
                 List<Supplier> suppliers = supplierCrud.SelectCreditHigherThanADO(creditAmount);
                 Console.WriteLine($"Proveïdors que tenen un credit superior a {creditAmount}: ");
                 Console.WriteLine();
-                foreach ( Supplier supplier in suppliers )
+                foreach (Supplier supplier in suppliers)
                 {
                     Console.WriteLine(supplier);
+                    Console.WriteLine();
+                }
+            }
+
+            void EX6()
+            {
+                var product1 = new Product()
+                {
+                    Code = 900001,
+                    Description = "GALLETITAS",
+                    Currentstock = 13,
+                    Minstock = 3,
+                    Price = 7.2,
+                    Employee = GeneralCRUD.SelectById<Employee>(5)
+                };
+                var product2 = new Product()
+                {
+                    Code = 900002,
+                    Description = "CHOCOLATE",
+                    Currentstock = 15,
+                    Minstock = 7,
+                    Price = 9.42,
+                    Employee = GeneralCRUD.SelectById<Employee>(7)
+                };
+
+                GeneralCRUD.Insert(product1);
+                GeneralCRUD.Insert(product2);
+
+                var supplier1 = new Supplier()
+                {
+                    Name = "Supplier1",
+                    Address = "123 Main Street",
+                    City = "City1",
+                    StCode = "SE",
+                    Zipcode = "12345",
+                    Area = 100,
+                    Phone = "123-456",
+                    Amount = 30,
+                    Credit = 70.300,
+                    Remark = "Some remarks",
+                    Product = GeneralCRUD.SelectById<Product>(product1.Id)
+                };
+                var supplier2 = new Supplier()
+                {
+                    Name = "Supplier2",
+                    Address = "321 Main Street",
+                    City = "City2",
+                    StCode = "SO",
+                    Zipcode = "12345",
+                    Area = 50,
+                    Phone = "123-456",
+                    Amount = 35,
+                    Credit = 30.220,
+                    Remark = "Some remarks",
+                    Product = GeneralCRUD.SelectById<Product>(product2.Id)
+                };
+
+                GeneralCRUD.Insert(supplier1);
+                GeneralCRUD.Insert(supplier2);
+            }
+
+            void EX7()
+            {
+                List<Supplier> suppliers = supplierCrud.SelectByCity("BURLINGAME");
+                foreach (Supplier supplier in suppliers)
+                {
+                    supplier.Credit = 10000;
+                    GeneralCRUD.Update(supplier);
+                }
+            }
+
+            void EX8()
+            {
+                List<Product> products = GeneralCRUD.SelectAll<Product>();
+                Console.WriteLine("TODOS LOS PRODUCTOS: ");
+                Console.WriteLine();
+                foreach (Product product in products)
+                {
+                    Console.WriteLine(product);
+                    Console.WriteLine();
+                }
+            }
+
+            void EX9()
+            {
+                Employee emp = empCrud.SelectByName("ARROYO");
+
+                foreach (Product prod in emp.Products)
+                {
+                    Console.WriteLine($"Proveedor del producto {prod.Description}: {prod.Supplier.Name}");
+                }
+            }
+
+            void EX10()
+            {
+                List<Order> orders = orderCrud.SelectByCostHigherThan(10000, 100);
+                foreach (Order order in orders)
+                {
+                    Console.WriteLine(order);
                     Console.WriteLine();
                 }
             }

@@ -23,9 +23,10 @@ namespace cat.itb.M6UF2Pr.Maps
             Map(x => x.Remark);
 
             References(x => x.Product, "productno")
+                .Column("productno")
                 .Not.LazyLoad()
                 .Cascade.All()
-                .Fetch.Join();
+                .Not.Nullable();
 
             HasMany(x => x.Orders)
                 .KeyColumn("supplierno")
