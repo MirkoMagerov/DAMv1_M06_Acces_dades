@@ -1,6 +1,7 @@
 ﻿using cat.itb.M6UF2EA3;
 using cat.itb.M6UF2Pr.Connections;
 using cat.itb.M6UF2Pr.Model;
+using NHibernate.Criterion;
 using Npgsql;
 
 namespace cat.itb.M6UF2Pr.Cruds
@@ -60,6 +61,22 @@ namespace cat.itb.M6UF2Pr.Cruds
             using (var session = SessionFactoryCloud.Open())
             {
                 return session.Query<Supplier>().Where(x => x.City == city).ToList();
+            }
+        }
+
+        public Supplier SelectLowestAmount()
+        {
+            using (var session = SessionFactoryCloud.Open())
+            {
+                int minAmount = session.QueryOver<Supplier>()
+                                        .Select(Projections.Min<Supplier>(s => s.Amount))
+                                        .SingleOrDefault<int>();
+
+                Supplier lowestSupplier = session.QueryOver<Supplier>()
+                                                 .Where(s => s.Amount == minAmount)
+                                                 .SingleOrDefault();
+
+                return lowestSupplier;
             }
         }
     }

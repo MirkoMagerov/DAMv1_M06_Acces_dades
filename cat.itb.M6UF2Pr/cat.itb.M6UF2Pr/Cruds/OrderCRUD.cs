@@ -51,14 +51,14 @@ namespace cat.itb.M6UF2Pr.Cruds
             return null;
         }
 
-        public List<Model.Order> SelectByCostHigherThan(int cost, int quantity)
+        public List<Model.Order> SelectByCostHigherThan(double cost, int quantity)
         {
             using (var session = SessionFactoryCloud.Open())
             {
                 ICriteria criteria = session.CreateCriteria<Model.Order>();
 
                 criteria.Add(Restrictions.Gt("Cost", cost));
-                criteria.Add(Restrictions.Eq("Quantity", quantity));
+                criteria.Add(Restrictions.Eq("Amount", quantity));
 
                 IList<Model.Order> orders = criteria.List<Model.Order>();
 

@@ -76,5 +76,18 @@ namespace cat.itb.M6UF2Pr.Cruds
                 }
             }
         }
+        public List<string[]> SelectByPriceLowThan(double price)
+        {
+            List<String[]> result = new List<String[]>();
+            List<Product> products = GeneralCRUD.SelectAll<Product>();
+            var productsSelected = (from product in products where product.Price < price select new {product.Code, product.Description}).ToList();
+            
+            foreach (var product in productsSelected)
+            {
+                string[] prod = { product.Code.ToString(), product.Description };
+                result.Add(prod);
+            }
+            return result;
+        }
     }
 }

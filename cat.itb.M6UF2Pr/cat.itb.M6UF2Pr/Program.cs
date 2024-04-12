@@ -1,7 +1,5 @@
 ﻿using cat.itb.M6UF2Pr.Cruds;
 using cat.itb.M6UF2Pr.Model;
-using System;
-using System.Security.Cryptography.X509Certificates;
 
 namespace cat.itb.M6UF2Pr
 {
@@ -9,12 +7,27 @@ namespace cat.itb.M6UF2Pr
     {
         public static void Main()
         {
+            const string BorrarTablasMensaje = "Borrar todas las tablas";
+            const string CrearTablasMensaje = "Crear las tablas";
+            const string Ejercicio1Mensaje = "Ejercicio 1";
+            const string Ejercicio2Mensaje = "Ejercicio 2";
+            const string Ejercicio3Mensaje = "Ejercicio 3";
+            const string Ejercicio4Mensaje = "Ejercicio 4";
+            const string Ejercicio5Mensaje = "Ejercicio 5";
+            const string Ejercicio6Mensaje = "Ejercicio 6";
+            const string Ejercicio7Mensaje = "Ejercicio 7";
+            const string Ejercicio8Mensaje = "Ejercicio 8";
+            const string Ejercicio9Mensaje = "Ejercicio 9";
+            const string Ejercicio10Mensaje = "Ejercicio 10";
+            const string Ejercicio11Mensaje = "Ejercicio 11";
+            const string Ejercicio12Mensaje = "Ejercicio 12";
+            const string Salir = "Salir del programa";
+
             EmployeeCRUD empCrud = new EmployeeCRUD();
             ProductCRUD productCrud = new ProductCRUD();
             SupplierCRUD supplierCrud = new SupplierCRUD();
             OrderCRUD orderCrud = new OrderCRUD();
 
-            // Nombres tablas
             List<string> tables = ["employee", "product", "supplier", "orderp"];
 
             // EX 1
@@ -30,6 +43,24 @@ namespace cat.itb.M6UF2Pr
 
             while (continuar)
             {
+                Console.WriteLine("Elija una opción:");
+                Console.WriteLine($"-1: {BorrarTablasMensaje}");
+                Console.WriteLine($"0: {CrearTablasMensaje}");
+                Console.WriteLine($"1: {Ejercicio1Mensaje}");
+                Console.WriteLine($"2: {Ejercicio2Mensaje}");
+                Console.WriteLine($"3: {Ejercicio3Mensaje}");
+                Console.WriteLine($"4: {Ejercicio4Mensaje}");
+                Console.WriteLine($"5: {Ejercicio5Mensaje}");
+                Console.WriteLine($"6: {Ejercicio6Mensaje}");
+                Console.WriteLine($"7: {Ejercicio7Mensaje}");
+                Console.WriteLine($"8: {Ejercicio8Mensaje}");
+                Console.WriteLine($"9: {Ejercicio9Mensaje}");
+                Console.WriteLine($"10: {Ejercicio10Mensaje}");
+                Console.WriteLine($"11: {Ejercicio11Mensaje}");
+                Console.WriteLine($"12: {Ejercicio12Mensaje}");
+                Console.WriteLine($"13: {Salir}");
+
+
                 Console.Write("Introduce el número del ejercicio: ");
                 int opcion = int.Parse(Console.ReadLine());
 
@@ -69,6 +100,18 @@ namespace cat.itb.M6UF2Pr
                         break;
                     case 9:
                         EX9();
+                        break;
+                    case 10:
+                        EX10();
+                        break;
+                    case 11:
+                        EX11();
+                        break;
+                    case 12:
+                        EX12();
+                        break;
+                    case 13:
+                        continuar = false;
                         break;
                     default:
                         Console.WriteLine("Opción incorrecta.");
@@ -210,6 +253,24 @@ namespace cat.itb.M6UF2Pr
                     Console.WriteLine(order);
                     Console.WriteLine();
                 }
+            }
+
+            void EX11()
+            {
+                List<string[]> result = productCrud.SelectByPriceLowThan(30);
+                Console.WriteLine("Productos con precio inferior a 30: ");
+                Console.WriteLine();
+                foreach (var product in result)
+                {
+                    Console.WriteLine($"Code: {product[0]}, Description: {product[1]}.");
+                    Console.WriteLine();
+                }
+            }
+
+            void EX12()
+            {
+                Supplier supplier = supplierCrud.SelectLowestAmount();
+                Console.WriteLine($"Nombre: {supplier.Name}, Cantidad: {supplier.Amount}, Stock actual: {supplier.Product.Currentstock}.");
             }
         }
     }

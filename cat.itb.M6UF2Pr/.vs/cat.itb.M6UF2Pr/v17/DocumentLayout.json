@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|solutionrelative:cat.itb.m6uf2pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E5F223-3134-4180-A498-E46BE3115F66}|cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr.csproj|e:\\damv1\\damv1_m06_acces_dades\\cat.itb.m6uf2pr\\cat.itb.m6uf2pr\\cruds\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Program.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Program.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Program.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAASwDsAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.532Z",
               "IsPinned": true,
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GeneralCRUD.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\GeneralCRUD.cs",
@@ -109,44 +109,43 @@
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\EmployeeCRUD.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T12:29:00.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SupplierCRUD.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\SupplierCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAArwEwAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderCRUD.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\OrderCRUD.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABPAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAADgv0EAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductCRUD.cs",
               "DocumentMoniker": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
               "RelativeDocumentMoniker": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
               "ToolTip": "E:\\DAMv1\\DAMv1_M06_Acces_dades\\cat.itb.M6UF2Pr\\cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Cruds\\ProductCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABaAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAADgv04AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T12:29:00.595Z",
               "EditorCaption": ""
@@ -221,8 +220,7 @@
               "RelativeToolTip": "cat.itb.M6UF2Pr\\Model\\Supplier.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:29:00.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T12:29:00.579Z"
             },
             {
               "$type": "Document",
